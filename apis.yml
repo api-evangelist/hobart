@@ -1,61 +1,22 @@
-name: Hobart APIs
-description: A collection of APIs for the city of Hobart, Tasmania
-url: https://www.hobartcity.com.au
-created: '2024-01-15'
-modified: '2024-01-15'
-specificationVersion: '0.16'
-apis:
-- name: Hobart Open Data API
-  description: Access to open data from the City of Hobart including datasets on infrastructure, demographics, and city services
-  image: https://www.hobartcity.com.au/images/logo.png
-  humanURL: https://www.hobartcity.com.au/data
-  baseURL: https://data.hobartcity.com.au/api
-  tags:
-  - Open Data
-  - Government
-  - City Services
-  properties:
-  - type: Documentation
-    url: https://data.hobartcity.com.au/api/docs
-  - type: OpenAPI
-    url: https://data.hobartcity.com.au/api/openapi.json
-  - type: Terms of Service
-    url: https://www.hobartcity.com.au/terms
-- name: Hobart Parking API
-  description: Real-time parking availability and location information for public parking in Hobart
-  image: https://www.hobartcity.com.au/images/parking-icon.png
-  humanURL: https://www.hobartcity.com.au/parking
-  baseURL: https://parking.hobartcity.com.au/api/v1
-  tags:
-  - Parking
-  - Transportation
-  - Real-time
-  properties:
-  - type: Documentation
-    url: https://parking.hobartcity.com.au/api/docs
-  - type: OpenAPI
-    url: https://parking.hobartcity.com.au/api/openapi.yaml
-- name: Hobart Events API
-  description: Information about events, festivals, and public gatherings in Hobart
-  image: https://www.hobartcity.com.au/images/events-icon.png
-  humanURL: https://www.hobartcity.com.au/events
-  baseURL: https://events.hobartcity.com.au/api/v1
-  tags:
-  - Events
-  - Culture
-  - Tourism
-  properties:
-  - type: Documentation
-    url: https://events.hobartcity.com.au/api/docs
-  - type: Swagger
-    url: https://events.hobartcity.com.au/api/swagger
-maintainers:
-- name: City of Hobart IT Department
-  email: api-support@hobartcity.com.au
-  url: https://www.hobartcity.com.au/contact
+aid: hobart
+name: Hobart
+description: >-
+  Hobart refers to food service equipment APIs - Hobart is a leading
+  commercial food equipment manufacturer. This may also refer to the City
+  of Hobart open data resources. This entry covers available API capabilities
+  related to Hobart resources.
+url: https://raw.githubusercontent.com/api-evangelist/hobart/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Government
-- City Services
-- Open Data
-- Tasmania
-- Australia
+  - Equipment
+  - Government
+  - Open Data
+created: '2024-01-15'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
