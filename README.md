@@ -1,67 +1,39 @@
-# Hobart APIs (hobart)
-A collection of APIs for the city of Hobart, Tasmania
+# Hobart (hobart)
+Hobart is a leading commercial food service equipment manufacturer that offers an API integration to automate work order workflow and streamline the exchange of data between partner systems and Hobart service operations.
 
-**URL:** [Visit APIs.json URL](https://www.hobartcity.com.au)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hobart/refs/heads/main/apis.yml)
 
 ## Tags:
 
- - Government, City Services, Open Data, Tasmania, Australia
+ - Equipment, Food Service, Work Orders, Service
 
 ## Timestamps
 
-- **Created:** 2024-01-15 
-- **Modified:** 2024-01-15 
+- **Created:** 2024-01-15
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Hobart Open Data API
-Access to open data from the City of Hobart including datasets on infrastructure, demographics, and city services
+### Hobart Work Order Web Service
+Hobart's API integration helps automate the work order workflow process and streamline the exchange of data between partner systems and Hobart's service operations. Implementation requires the Web Service Fields Specification document available from Hobart.
 
-**Human URL:** [https://www.hobartcity.com.au/data](https://www.hobartcity.com.au/data)
-
-
-#### Tags:
-
- - Open Data, Government, City Services
-
-#### Properties
-
-- [Documentation](https://data.hobartcity.com.au/api/docs)
-- [OpenAPI](https://data.hobartcity.com.au/api/openapi.json)
-- [Terms of Service](https://www.hobartcity.com.au/terms)
-
-### Hobart Parking API
-Real-time parking availability and location information for public parking in Hobart
-
-**Human URL:** [https://www.hobartcity.com.au/parking](https://www.hobartcity.com.au/parking)
+**Human URL:** [https://www.hobartcorp.com/api-integration](https://www.hobartcorp.com/api-integration)
 
 
 #### Tags:
 
- - Parking, Transportation, Real-time
+ - Work Orders, Service, Food Equipment
 
 #### Properties
 
-- [Documentation](https://parking.hobartcity.com.au/api/docs)
-- [OpenAPI](https://parking.hobartcity.com.au/api/openapi.yaml)
+- [Documentation](https://www.hobartcorp.com/api-integration)
 
-### Hobart Events API
-Information about events, festivals, and public gatherings in Hobart
+## Common Properties
 
-**Human URL:** [https://www.hobartcity.com.au/events](https://www.hobartcity.com.au/events)
-
-
-#### Tags:
-
- - Events, Culture, Tourism
-
-#### Properties
-
-- [Documentation](https://events.hobartcity.com.au/api/docs)
-- [Swagger](https://events.hobartcity.com.au/api/swagger)
+- [Website](https://www.hobartcorp.com)
 
 ## Maintainers
 
-**FN:** City of Hobart IT Department
+**FN:** Kin Lane
 
-**Email:** api-support@hobartcity.com.au
+**Email:** kin@apievangelist.com
