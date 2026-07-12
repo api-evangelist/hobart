@@ -32,6 +32,8 @@ apis:
       - type: Documentation
         url: https://www.hobartcorp.com/api-integration
 common:
+  - type: DomainSecurity
+    url: security/hobart-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hobart
   - type: Website
