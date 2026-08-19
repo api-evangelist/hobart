@@ -26,7 +26,7 @@ tags:
   - Service
 created: '2024-01-15'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: hobart:work-order-api
     name: Hobart Work Order Web Service
