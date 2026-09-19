@@ -34,6 +34,11 @@ tags:
   - Equipment
   - Food Service
   - Work Orders
+  - Services
+tags_raw:
+  - Equipment
+  - Food Service
+  - Work Orders
   - Service
 created: '2024-01-15'
 modified: '2026-04-28'
@@ -48,6 +53,10 @@ apis:
       Specification document available from Hobart.
     humanURL: https://www.hobartcorp.com/api-integration
     tags:
+      - Work Orders
+      - Services
+      - Food Equipment
+    tags_raw:
       - Work Orders
       - Service
       - Food Equipment
