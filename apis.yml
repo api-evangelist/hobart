@@ -41,7 +41,7 @@ tags_raw:
   - Work Orders
   - Service
 created: '2024-01-15'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: hobart:work-order-api
@@ -64,6 +64,10 @@ apis:
       - type: Documentation
         url: https://www.hobartcorp.com/api-integration
 common:
+  - url: https://blog.hobartcorp.com/blog
+    type: Blog
+  - url: https://blog.hobartcorp.com/blog/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/hobart-domain-security.yml
   - type: LinkedIn
